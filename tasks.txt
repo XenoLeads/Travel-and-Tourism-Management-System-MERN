@@ -1,0 +1,8 @@
+Tasks:
+1. Change the Login Button in the navigation bar to the icon. You can choose any icon.
+
+2. When clicking the Logo button on the left side of the navigation bar, the pages should redirect to the Homepage.
+
+3. When I press the “TopRated” button on Homepage,
+   the package searching page should have the “Sort:” component with the content of “Top Rated”.
+   Now, it is displayed as “Price high to low” regardless of which button is pressed.
